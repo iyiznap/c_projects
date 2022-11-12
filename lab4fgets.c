@@ -1,10 +1,3 @@
-/***************************************
-* EECS2031M – Lab4 *
-* Author: Pan, Ziyi *
-* Email: pppanziyi@gmail.com*
-* eecs_username: stevenpa *
-* York num: 215485188 *
-***************************************/
 #include <stdio.h>
 #include <string.h>
 #include <ctype.h>
